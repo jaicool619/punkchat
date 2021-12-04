@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jaicool619/punkchat/static/css/main.e0e6fa14.chunk.css",
+    "main.js": "/jaicool619/punkchat/static/js/main.3da99fb4.chunk.js",
+    "main.js.map": "/jaicool619/punkchat/static/js/main.3da99fb4.chunk.js.map",
+    "runtime-main.js": "/jaicool619/punkchat/static/js/runtime-main.2d205949.js",
+    "runtime-main.js.map": "/jaicool619/punkchat/static/js/runtime-main.2d205949.js.map",
+    "static/css/2.ad76a385.chunk.css": "/jaicool619/punkchat/static/css/2.ad76a385.chunk.css",
+    "static/js/2.a87dbcf4.chunk.js": "/jaicool619/punkchat/static/js/2.a87dbcf4.chunk.js",
+    "static/js/2.a87dbcf4.chunk.js.map": "/jaicool619/punkchat/static/js/2.a87dbcf4.chunk.js.map",
+    "index.html": "/jaicool619/punkchat/index.html",
+    "precache-manifest.5b7c5595c66513e9255f03c67123df23.js": "/jaicool619/punkchat/precache-manifest.5b7c5595c66513e9255f03c67123df23.js",
+    "service-worker.js": "/jaicool619/punkchat/service-worker.js",
+    "static/css/2.ad76a385.chunk.css.map": "/jaicool619/punkchat/static/css/2.ad76a385.chunk.css.map",
+    "static/css/main.e0e6fa14.chunk.css.map": "/jaicool619/punkchat/static/css/main.e0e6fa14.chunk.css.map",
+    "static/js/2.a87dbcf4.chunk.js.LICENSE.txt": "/jaicool619/punkchat/static/js/2.a87dbcf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d205949.js",
+    "static/css/2.ad76a385.chunk.css",
+    "static/js/2.a87dbcf4.chunk.js",
+    "static/css/main.e0e6fa14.chunk.css",
+    "static/js/main.3da99fb4.chunk.js"
+  ]
+}
